@@ -26,7 +26,7 @@ Utilizamos gráficos interativos e em 3D para facilitar a exploração dos dados
 ## Como Executar o Projeto
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/ferdnandou/Analise-do-Mercado-de-Jogos-no-Brasil.git
     ```
 2. Instale as bibliotecas necessárias:
     ```bash
