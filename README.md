@@ -44,7 +44,6 @@ A indústria de jogos no Brasil está em franca ascensão. A análise interativa
 
 ## Estrutura do Projeto
 - **/src**: Contém o código-fonte da análise.
-- **/data**: Planilha de dados utilizados.
 - **README.md**: Documento com descrição detalhada do projeto.
 
 ## Referências
